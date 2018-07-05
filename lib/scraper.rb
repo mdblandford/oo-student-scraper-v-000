@@ -15,7 +15,6 @@ class Scraper
     end
     scraped_students
    end
-  end
 
   def self.scrape_profile_page(profile_url)
 
